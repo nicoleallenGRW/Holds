@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/python2.7
 #
-# Test being run to export shelf list to collection managers
-# Email Excel Spreadhseet to manager and supervisor 
 # Use XlsxWriter to create spreadsheet from SQL Query
 # 
 #
